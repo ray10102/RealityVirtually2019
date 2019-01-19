@@ -1,15 +1,503 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e13c9ae2-9e61-481d-a973-ea723daf0af5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/animations/1tt.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/animations/1tt.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/animations/TTBIdle1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/animations/TTBIdle1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/animations/TTBWalk2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/animations/TTBWalk2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTBoyB01.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTBoyB01.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTFeetB01.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTFeetB01.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTLegs01.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTLegs01.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTSweater05.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTSweater05.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTteeth.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/TTteeth.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/eye4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/Materials/eye4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/TTBoyAvatar.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/TTBoyAvatar.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/TTBoyB.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/model/TTBoyB.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/prefab/TTBoyB.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/prefab/TTBoyB.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/scenes/1toonteen.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/scenes/1toonteen.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/scenes/data.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/scenes/data/floor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/scenes/data/floor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/scenes/data/floor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/scenes/data/floor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTBoyB01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTBoyB01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTBoyBN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTBoyBN.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTFeetB01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTFeetB01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTLegs01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTLegs01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTSweater05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTSweater05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTteeth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/TTteeth.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/eye4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/eye4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/eyeem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1toonteens/textures/eyeem.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Happy Idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Happy Idle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Idle (1).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Idle (1).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Idle (2).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Idle (2).fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Idle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Sad Idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3@Sad Idle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Body_AmbientOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Body_AmbientOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Body_BaseColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Body_BaseColor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Body_MetallicAndSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Body_MetallicAndSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Body_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Body_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Bottom_AmbientOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Bottom_AmbientOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Bottom_BaseColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Bottom_BaseColor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Bottom_MetallicAndSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Bottom_MetallicAndSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Bottom_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Bottom_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Shoes_AmbientOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Shoes_AmbientOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Shoes_BaseColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Shoes_BaseColor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Shoes_MetallicAndSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Shoes_MetallicAndSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Shoes_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Shoes_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Top_AmbientOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Top_AmbientOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Top_BaseColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Top_BaseColor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Top_MetallicAndSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Top_MetallicAndSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Top_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Male3_Top_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Materials/Male3_Body_BaseColor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Materials/Male3_Body_BaseColor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Materials/Male3_Bottom_BaseColor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Materials/Male3_Bottom_BaseColor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Materials/Male3_Shoes_BaseColor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Materials/Male3_Shoes_BaseColor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Materials/Male3_Top_BaseColor.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Characters/Male3textures/Male3/Materials/Male3_Top_BaseColor.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/CrouchingRun.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/CrouchingRun.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage3.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage3.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Death.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Death.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/FightStance.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/FightStance.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Hit.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Hit.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Idle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Idle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Jump.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Jump.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/CrouchingRun.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/CrouchingRun.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage3.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage3.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Death.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Death.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/FightStance.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/FightStance.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Hit.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Hit.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Idle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Idle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Jump.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Jump.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Sneak.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Sneak.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Walk.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Walk.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Wary.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Wary.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Sneak.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Sneak.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Walk.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Walk.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Wary.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Wary.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl/SportyGirl.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl/SportyGirl.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl/SportyGirl.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl/SportyGirl.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Controllers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Controllers/FreeHandController.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Controllers/FreeHandController.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Demo Sporty Girl.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Demo Sporty Girl.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Material.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Material/DarkSpot.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Material/DarkSpot.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs/Button.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs/Button.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs/UI.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs/UI.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/Actions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/Actions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/CharacterPanel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/CharacterPanel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/CharacterViewer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/CharacterViewer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Textures/DarkSpot.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Textures/DarkSpot.JPG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Manual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Manual.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Materials/SportyGirl.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Materials/SportyGirl.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Shaders/SkinShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Shaders/SkinShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Textures/SportyGrilSkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Textures/SportyGrilSkin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/YurowmAvatar.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/YurowmAvatar.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1681185337">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1096" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1096" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollectionDynamic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+              <folding>
+                <marker date="1543259024000" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+                <marker date="1543259024000" expanded="false" signature="160:220" ph="..." />
+                <marker date="1543259024000" expanded="true" signature="261:4993" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="268:525" ph="/// A utility that stores transform information for objects in a collection ... " />
+                <marker date="1543259024000" expanded="true" signature="582:4991" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="621:728" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="738:865" ph="/// Extends collection node class to include stored local position / rotation data ... " />
+                <marker date="1543259024000" expanded="true" signature="948:1846" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="1020:1341" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="1409:1730" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="1856:1948" ph="/// When to gather the dynamic node information ... " />
+                <marker date="1543259024000" expanded="true" signature="2026:2114" ph="/// List of dynamic nodes in the collection ... " />
+                <marker date="1543259024000" expanded="true" signature="2255:2497" ph="/// Sets each node in the collection to its last stored arrangement ... " />
+                <marker date="1543259024000" expanded="true" signature="2546:3194" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="2687:3184" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="2822:2907" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="2912:3170" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="3204:3290" ph="/// Manually store collection arrangement ... " />
+                <marker date="1543259024000" expanded="true" signature="3330:3992" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="3564:3758" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="3633:3744" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="3775:3982" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="3858:3968" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="4014:4172" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="4060:4162" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="4194:4869" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="4234:4859" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="4686:4778" ph="/* If we're only supposed to update once ... */" />
+                <marker date="1543259024000" expanded="true" signature="4933:4985" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SectionManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <marker date="1547916764233" expanded="false" signature="6:115" ph="..." />
+                <marker date="1547916764233" expanded="true" signature="161:512" ph="{...}" />
+                <marker date="1547916764233" expanded="true" signature="341:408" ph="{...}" />
+                <marker date="1547916764233" expanded="true" signature="463:470" ph="{...}" />
+                <marker date="1547916764233" expanded="true" signature="501:510" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Timeline.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+              <folding>
+                <marker date="1547935077862" expanded="false" signature="6:190" ph="..." />
+                <marker date="1547935077862" expanded="true" signature="229:672" ph="{...}" />
+                <marker date="1547935077862" expanded="true" signature="385:404" ph="{...}" />
+                <marker date="1547935077862" expanded="true" signature="459:598" ph="{...}" />
+                <marker date="1547935077862" expanded="true" signature="547:595" ph="{...}" />
+                <marker date="1547935077862" expanded="true" signature="625:670" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2108">
+              <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+              <folding>
+                <marker date="1543259024000" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+                <marker date="1543259024000" expanded="false" signature="160:220" ph="..." />
+                <marker date="1543259024000" expanded="true" signature="261:23716" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="268:513" ph="/// An Object Collection is simply a set of child objects organized with some ... " />
+                <marker date="1543259024000" expanded="true" signature="563:23714" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="578:4920" ph="public members" />
+                <marker date="1543259024000" expanded="true" signature="609:698" ph="/// Action called when collection is updated ... " />
+                <marker date="1543259024000" expanded="true" signature="769:868" ph="/// List of objects with generated data on the object. ... " />
+                <marker date="1543259024000" expanded="true" signature="978:1068" ph="/// Type of surface to map the collection to. ... " />
+                <marker date="1543259024000" expanded="true" signature="1208:1280" ph="/// Type of sorting to use. ... " />
+                <marker date="1543259024000" expanded="true" signature="1392:1511" ph="/// Should the objects in the collection face the origin of the collection ... " />
+                <marker date="1543259024000" expanded="true" signature="1689:1793" ph="/// Whether to sort objects by row first or by column first ... " />
+                <marker date="1543259024000" expanded="true" signature="1953:2053" ph="/// Whether to treat inactive transforms as 'invisible' ... " />
+                <marker date="1543259024000" expanded="true" signature="2116:2269" ph="/// This is the radius of either the Cylinder or Sphere mapping and is ignored when using the plane mapping. ... " />
+                <marker date="1543259024000" expanded="true" signature="2543:2650" ph="/// This is the radial range for creating a radial fan layout. ... " />
+                <marker date="1543259024000" expanded="true" signature="2683:2784" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="2794:2913" ph="/// Number of rows per column (column number is automatically determined). ... " />
+                <marker date="1543259024000" expanded="true" signature="2999:3095" ph="/// Width of the cell per object in the collection. ... " />
+                <marker date="1543259024000" expanded="true" signature="3190:3287" ph="/// Height of the cell per object in the collection. ... " />
+                <marker date="1543259024000" expanded="true" signature="3514:3599" ph="/// Margin between objects horizontally. ... " />
+                <marker date="1543259024000" expanded="true" signature="3637:3748" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="3884:3967" ph="/// Margin between objects vertically. ... " />
+                <marker date="1543259024000" expanded="true" signature="4003:4110" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="4241:4322" ph="/// Margin between objects in depth. ... " />
+                <marker date="1543259024000" expanded="true" signature="4355:4456" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="4466:4568" ph="/// Reference mesh to use for rendering the sphere layout ... " />
+                <marker date="1543259024000" expanded="true" signature="4636:4740" ph="/// Reference mesh to use for rendering the cylinder layout ... " />
+                <marker date="1543259024000" expanded="true" signature="4930:5117" ph="private variables" />
+                <marker date="1543259024000" expanded="true" signature="5127:5301" ph="/// Update collection is called from the editor button on the inspector. ... " />
+                <marker date="1543259024000" expanded="true" signature="5340:8227" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="5531:5874" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="5775:5860" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="5972:6048" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="6199:6623" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="6380:6609" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="6654:7727" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="8139:8217" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="8237:8368" ph="/// Internal function for laying out all the children when UpdateCollection is called. ... " />
+                <marker date="1543259024000" expanded="true" signature="8407:13954" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="8915:10290" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9060:9587" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9137:9565" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9225:9496" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9717:10248" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9798:10226" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9886:10157" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="10325:13944" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="10431:10666" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="10801:11064" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="11198:11459" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="11668:12258" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="11835:11968" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="11997:12090" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="12352:12531" ph="/* Get randomized planar mapping ... */" />
+                <marker date="1543259024000" expanded="true" signature="12592:13617" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="12841:13185" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="13214:13450" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="13269:13371" ph="/* Make the radius a default value ... */" />
+                <marker date="1543259024000" expanded="true" signature="13639:13743" ph="/* Iterate [x] times ... */" />
+                <marker date="1543259024000" expanded="true" signature="13793:13903" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="13964:14245" ph="/// Update the facing of a node given the nodes new position for facing orign with node and orientation type ... " />
+                <marker date="1543259024000" expanded="true" signature="14366:16614" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="14484:16604" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="16625:17012" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for spherical mapping. ... " />
+                <marker date="1543259024000" expanded="true" signature="17083:17474" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="17484:17874" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for cylinder mapping. ... " />
+                <marker date="1543259024000" expanded="true" signature="17947:18278" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="18288:18867" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for radial mapping. ... " />
+                <marker date="1543259024000" expanded="true" signature="18956:19364" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="19374:19623" ph="/// Internal function to check if a node exists in the NodeList. ... " />
+                <marker date="1543259024000" expanded="true" signature="19673:20013" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="19736:19977" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="19791:19963" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="19864:19945" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="20023:20409" ph="/// Internal function for randomized mapping based on a source Vec3 and a radius for randomization distance. ... " />
+                <marker date="1543259024000" expanded="true" signature="20478:20657" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="20672:20890" ph="/// Internal function to pack randomly spaced nodes so they don't overlap ... " />
+                <marker date="1543259024000" expanded="true" signature="20982:22895" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="21005:21132" ph="/* Sort by closest to center (don't worry about z axis) ... */" />
+                <marker date="1543259024000" expanded="true" signature="21694:22885" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="21765:22871" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="21815:22853" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="22481:22831" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="22905:23001" ph="/// Gizmos to draw when the Collection is selected. ... " />
+                <marker date="1543259024000" expanded="true" signature="23055:23708" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="23155:23698" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update</find>
+      <find>updatecollection</find>
+      <find>OnCollectionUpdated</find>
+      <find>update collection</find>
+      <find>inspector</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollectionDynamic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SectionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Timeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SectionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Timeline.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="130" />
-    <option name="y" value="26" />
     <option name="width" value="1665" />
-    <option name="height" value="954" />
+    <option name="height" value="939" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -26,5 +514,244 @@
       <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
       <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
     </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e13c9ae2-9e61-481d-a973-ea723daf0af5" name="Default Changelist" comment="" />
+      <created>1547913035203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547913035203</updated>
+      <workItem from="1547913039029" duration="6220000" />
+      <workItem from="1547935047188" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6856000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="104" y="0" width="1332" height="751" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2539308" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollectionDynamic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+          <folding>
+            <marker date="1543259024000" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+            <marker date="1543259024000" expanded="false" signature="160:220" ph="..." />
+            <marker date="1543259024000" expanded="true" signature="261:4993" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="268:525" ph="/// A utility that stores transform information for objects in a collection ... " />
+            <marker date="1543259024000" expanded="true" signature="582:4991" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="621:728" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="738:865" ph="/// Extends collection node class to include stored local position / rotation data ... " />
+            <marker date="1543259024000" expanded="true" signature="948:1846" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="1020:1341" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="1409:1730" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="1856:1948" ph="/// When to gather the dynamic node information ... " />
+            <marker date="1543259024000" expanded="true" signature="2026:2114" ph="/// List of dynamic nodes in the collection ... " />
+            <marker date="1543259024000" expanded="true" signature="2255:2497" ph="/// Sets each node in the collection to its last stored arrangement ... " />
+            <marker date="1543259024000" expanded="true" signature="2546:3194" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="2687:3184" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="2822:2907" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="2912:3170" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3204:3290" ph="/// Manually store collection arrangement ... " />
+            <marker date="1543259024000" expanded="true" signature="3330:3992" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3564:3758" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3633:3744" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3775:3982" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3858:3968" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4014:4172" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4060:4162" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4194:4869" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4234:4859" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4686:4778" ph="/* If we're only supposed to update once ... */" />
+            <marker date="1543259024000" expanded="true" signature="4933:4985" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SectionManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <marker date="1547916764233" expanded="false" signature="6:115" ph="..." />
+            <marker date="1547916764233" expanded="true" signature="161:512" ph="{...}" />
+            <marker date="1547916764233" expanded="true" signature="341:408" ph="{...}" />
+            <marker date="1547916764233" expanded="true" signature="463:470" ph="{...}" />
+            <marker date="1547916764233" expanded="true" signature="501:510" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+          <folding>
+            <marker date="1543259024000" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+            <marker date="1543259024000" expanded="false" signature="160:220" ph="..." />
+            <marker date="1543259024000" expanded="true" signature="261:23716" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="268:513" ph="/// An Object Collection is simply a set of child objects organized with some ... " />
+            <marker date="1543259024000" expanded="true" signature="563:23714" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="578:4920" ph="public members" />
+            <marker date="1543259024000" expanded="true" signature="609:698" ph="/// Action called when collection is updated ... " />
+            <marker date="1543259024000" expanded="true" signature="769:868" ph="/// List of objects with generated data on the object. ... " />
+            <marker date="1543259024000" expanded="true" signature="978:1068" ph="/// Type of surface to map the collection to. ... " />
+            <marker date="1543259024000" expanded="true" signature="1208:1280" ph="/// Type of sorting to use. ... " />
+            <marker date="1543259024000" expanded="true" signature="1392:1511" ph="/// Should the objects in the collection face the origin of the collection ... " />
+            <marker date="1543259024000" expanded="true" signature="1689:1793" ph="/// Whether to sort objects by row first or by column first ... " />
+            <marker date="1543259024000" expanded="true" signature="1953:2053" ph="/// Whether to treat inactive transforms as 'invisible' ... " />
+            <marker date="1543259024000" expanded="true" signature="2116:2269" ph="/// This is the radius of either the Cylinder or Sphere mapping and is ignored when using the plane mapping. ... " />
+            <marker date="1543259024000" expanded="true" signature="2543:2650" ph="/// This is the radial range for creating a radial fan layout. ... " />
+            <marker date="1543259024000" expanded="true" signature="2683:2784" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="2794:2913" ph="/// Number of rows per column (column number is automatically determined). ... " />
+            <marker date="1543259024000" expanded="true" signature="2999:3095" ph="/// Width of the cell per object in the collection. ... " />
+            <marker date="1543259024000" expanded="true" signature="3190:3287" ph="/// Height of the cell per object in the collection. ... " />
+            <marker date="1543259024000" expanded="true" signature="3514:3599" ph="/// Margin between objects horizontally. ... " />
+            <marker date="1543259024000" expanded="true" signature="3637:3748" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3884:3967" ph="/// Margin between objects vertically. ... " />
+            <marker date="1543259024000" expanded="true" signature="4003:4110" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4241:4322" ph="/// Margin between objects in depth. ... " />
+            <marker date="1543259024000" expanded="true" signature="4355:4456" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4466:4568" ph="/// Reference mesh to use for rendering the sphere layout ... " />
+            <marker date="1543259024000" expanded="true" signature="4636:4740" ph="/// Reference mesh to use for rendering the cylinder layout ... " />
+            <marker date="1543259024000" expanded="true" signature="4930:5117" ph="private variables" />
+            <marker date="1543259024000" expanded="true" signature="5127:5301" ph="/// Update collection is called from the editor button on the inspector. ... " />
+            <marker date="1543259024000" expanded="true" signature="5340:8227" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="5531:5874" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="5775:5860" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="5972:6048" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="6199:6623" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="6380:6609" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="6654:7727" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="8139:8217" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="8237:8368" ph="/// Internal function for laying out all the children when UpdateCollection is called. ... " />
+            <marker date="1543259024000" expanded="true" signature="8407:13954" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="8915:10290" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9060:9587" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9137:9565" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9225:9496" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9717:10248" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9798:10226" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9886:10157" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="10325:13944" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="10431:10666" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="10801:11064" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="11198:11459" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="11668:12258" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="11835:11968" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="11997:12090" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="12352:12531" ph="/* Get randomized planar mapping ... */" />
+            <marker date="1543259024000" expanded="true" signature="12592:13617" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="12841:13185" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="13214:13450" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="13269:13371" ph="/* Make the radius a default value ... */" />
+            <marker date="1543259024000" expanded="true" signature="13639:13743" ph="/* Iterate [x] times ... */" />
+            <marker date="1543259024000" expanded="true" signature="13793:13903" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="13964:14245" ph="/// Update the facing of a node given the nodes new position for facing orign with node and orientation type ... " />
+            <marker date="1543259024000" expanded="true" signature="14366:16614" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="14484:16604" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="16625:17012" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for spherical mapping. ... " />
+            <marker date="1543259024000" expanded="true" signature="17083:17474" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="17484:17874" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for cylinder mapping. ... " />
+            <marker date="1543259024000" expanded="true" signature="17947:18278" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="18288:18867" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for radial mapping. ... " />
+            <marker date="1543259024000" expanded="true" signature="18956:19364" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="19374:19623" ph="/// Internal function to check if a node exists in the NodeList. ... " />
+            <marker date="1543259024000" expanded="true" signature="19673:20013" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="19736:19977" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="19791:19963" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="19864:19945" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="20023:20409" ph="/// Internal function for randomized mapping based on a source Vec3 and a radius for randomization distance. ... " />
+            <marker date="1543259024000" expanded="true" signature="20478:20657" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="20672:20890" ph="/// Internal function to pack randomly spaced nodes so they don't overlap ... " />
+            <marker date="1543259024000" expanded="true" signature="20982:22895" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="21005:21132" ph="/* Sort by closest to center (don't worry about z axis) ... */" />
+            <marker date="1543259024000" expanded="true" signature="21694:22885" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="21765:22871" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="21815:22853" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="22481:22831" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="22905:23001" ph="/// Gizmos to draw when the Collection is selected. ... " />
+            <marker date="1543259024000" expanded="true" signature="23055:23708" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="23155:23698" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Timeline.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <marker date="1547935077862" expanded="false" signature="6:190" ph="..." />
+            <marker date="1547935077862" expanded="true" signature="229:672" ph="{...}" />
+            <marker date="1547935077862" expanded="true" signature="385:404" ph="{...}" />
+            <marker date="1547935077862" expanded="true" signature="459:598" ph="{...}" />
+            <marker date="1547935077862" expanded="true" signature="547:595" ph="{...}" />
+            <marker date="1547935077862" expanded="true" signature="625:670" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
