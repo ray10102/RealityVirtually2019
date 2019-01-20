@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e13c9ae2-9e61-481d-a973-ea723daf0af5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/libil2cpp.so-2fa54e14582f03bf" beforeDir="false" afterPath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/libil2cpp.so-2fa54e14582f03bf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/package.mf" beforeDir="false" afterPath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/package.mf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.out/bin/libil2cpp.so" beforeDir="false" afterPath="$PROJECT_DIR$/.out/bin/libil2cpp.so" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.out/com.company.productname.mpk" beforeDir="false" afterPath="$PROJECT_DIR$/.out/com.company.productname.mpk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/InteractiveHuman.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/InteractiveHuman.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Balloon.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Balloon.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Swing.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Swing.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Wrecking Ball.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Wrecking Ball.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Zig Zag.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Zig Zag.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Balloon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Balloon.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female2/female2/animations/female2.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female2/female2/animations/female2.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Model Preview.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Model Preview.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TriggerTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TriggerTest.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,22 +27,22 @@
     <session id="-1681185337">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="8" />
+          <entry key="cs" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="8" />
+          <entry key="C#" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="3379" />
+          <entry key="cs" value="3863" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3379" />
+          <entry key="C#" value="3863" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -178,14 +186,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/TriggerTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
-                <marker date="1548005567696" expanded="true" signature="6:104" ph="..." />
-                <marker date="1548005567696" expanded="true" signature="147:384" ph="{...}" />
-                <marker date="1548005567696" expanded="true" signature="248:255" ph="{...}" />
-                <marker date="1548005567696" expanded="true" signature="310:382" ph="{...}" />
-                <marker date="1548005567696" expanded="true" signature="346:379" ph="{...}" />
+                <marker date="1548011242833" expanded="true" signature="6:104" ph="..." />
+                <marker date="1548011242833" expanded="true" signature="147:364" ph="{...}" />
+                <marker date="1548011242833" expanded="true" signature="274:362" ph="{...}" />
+                <marker date="1548011242833" expanded="true" signature="310:359" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -195,13 +202,14 @@
         <entry file="file://$PROJECT_DIR$/Assets/Balloon.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
-                <marker date="1548005919322" expanded="false" signature="6:78" ph="..." />
-                <marker date="1548005919322" expanded="true" signature="116:526" ph="{...}" />
-                <marker date="1548005919322" expanded="true" signature="236:287" ph="{...}" />
-                <marker date="1548005919322" expanded="true" signature="341:457" ph="{...}" />
-                <marker date="1548005919322" expanded="true" signature="488:524" ph="{...}" />
+                <marker date="1548011610778" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548011610778" expanded="true" signature="116:728" ph="{...}" />
+                <marker date="1548011610778" expanded="true" signature="295:320" ph="{...}" />
+                <marker date="1548011610778" expanded="true" signature="374:630" ph="{...}" />
+                <marker date="1548011610778" expanded="true" signature="440:517" ph="{...}" />
+                <marker date="1548011610778" expanded="true" signature="661:726" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -223,11 +231,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/InteractiveHuman.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+            <state relative-caret-position="397">
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
               <folding>
                 <marker date="1548008707804" expanded="true" signature="6:172" ph="..." />
                 <marker date="1548008707804" expanded="true" signature="219:3031" ph="{...}" />
@@ -247,13 +255,28 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Rise.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <marker date="1548018541130" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548018541130" expanded="true" signature="113:285" ph="{...}" />
+                <marker date="1548018541130" expanded="true" signature="187:228" ph="{...}" />
+                <marker date="1548018541130" expanded="true" signature="250:283" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>lastLED</find>
-      <find>spotlight</find>
       <find>controllerId</find>
+      <find>spotlight</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -263,6 +286,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollectionDynamic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BalloonGroup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Rise.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/InteractiveHuman.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Balloon.cs" root0="FORCE_HIGHLIGHTING" />
@@ -278,11 +302,12 @@
         <option value="$PROJECT_DIR$/Assets/Timeline.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ModelGroup.cs" />
         <option value="$PROJECT_DIR$/Assets/ControllerFeedbackExample1.cs" />
-        <option value="$PROJECT_DIR$/Assets/TriggerTest.cs" />
-        <option value="$PROJECT_DIR$/Assets/Balloon.cs" />
         <option value="$PROJECT_DIR$/Assets/BalloonGroup.cs" />
         <option value="$PROJECT_DIR$/Assets/TriggerManager.cs" />
         <option value="$PROJECT_DIR$/Assets/InteractiveHuman.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Balloon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Rise.cs" />
       </list>
     </option>
   </component>
@@ -292,7 +317,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="148" />
     <option name="y" value="47" />
     <option name="width" value="1055" />
@@ -362,7 +387,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15247000" />
+    <option name="totallyTimeSpent" value="16964000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,13 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ControllerFeedbackExample1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ControllerFeedbackExample1.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Models/ColorChanger.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -537,34 +556,6 @@
             <marker date="1547953399926" expanded="true" signature="282:555" ph="{...}" />
             <marker date="1547953399926" expanded="true" signature="361:552" ph="{...}" />
             <marker date="1547953399926" expanded="true" signature="610:617" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/BalloonGroup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding>
-            <marker date="1548006050885" expanded="false" signature="6:78" ph="..." />
-            <marker date="1548006050885" expanded="true" signature="121:435" ph="{...}" />
-            <marker date="1548006050885" expanded="true" signature="233:288" ph="{...}" />
-            <marker date="1548006050885" expanded="true" signature="312:433" ph="{...}" />
-            <marker date="1548006050885" expanded="true" signature="393:430" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Balloon.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding>
-            <marker date="1548005919322" expanded="false" signature="6:78" ph="..." />
-            <marker date="1548005919322" expanded="true" signature="116:526" ph="{...}" />
-            <marker date="1548005919322" expanded="true" signature="236:287" ph="{...}" />
-            <marker date="1548005919322" expanded="true" signature="341:457" ph="{...}" />
-            <marker date="1548005919322" expanded="true" signature="488:524" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -695,22 +686,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TriggerTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
-            <marker date="1548005567696" expanded="true" signature="6:104" ph="..." />
-            <marker date="1548005567696" expanded="true" signature="147:384" ph="{...}" />
-            <marker date="1548005567696" expanded="true" signature="248:255" ph="{...}" />
-            <marker date="1548005567696" expanded="true" signature="310:382" ph="{...}" />
-            <marker date="1548005567696" expanded="true" signature="346:379" ph="{...}" />
+            <marker date="1548011242833" expanded="true" signature="6:104" ph="..." />
+            <marker date="1548011242833" expanded="true" signature="147:364" ph="{...}" />
+            <marker date="1548011242833" expanded="true" signature="274:362" ph="{...}" />
+            <marker date="1548011242833" expanded="true" signature="310:359" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BalloonGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <marker date="1548006050885" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548006050885" expanded="true" signature="121:435" ph="{...}" />
+            <marker date="1548006050885" expanded="true" signature="233:288" ph="{...}" />
+            <marker date="1548006050885" expanded="true" signature="312:433" ph="{...}" />
+            <marker date="1548006050885" expanded="true" signature="393:430" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Balloon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <marker date="1548011610778" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548011610778" expanded="true" signature="116:728" ph="{...}" />
+            <marker date="1548011610778" expanded="true" signature="295:320" ph="{...}" />
+            <marker date="1548011610778" expanded="true" signature="374:630" ph="{...}" />
+            <marker date="1548011610778" expanded="true" signature="440:517" ph="{...}" />
+            <marker date="1548011610778" expanded="true" signature="661:726" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/InteractiveHuman.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+        <state relative-caret-position="397">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
           <folding>
             <marker date="1548008707804" expanded="true" signature="6:172" ph="..." />
             <marker date="1548008707804" expanded="true" signature="219:3031" ph="{...}" />
@@ -725,6 +744,19 @@
             <marker date="1548008707804" expanded="true" signature="2750:2819" ph="{...}" />
             <marker date="1548008707804" expanded="true" signature="2851:2946" ph="{...}" />
             <marker date="1548008707804" expanded="true" signature="2985:3029" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Rise.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <marker date="1548018541130" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548018541130" expanded="true" signature="113:285" ph="{...}" />
+            <marker date="1548018541130" expanded="true" signature="187:228" ph="{...}" />
+            <marker date="1548018541130" expanded="true" signature="250:283" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -8,16 +8,14 @@ public class TriggerTest : MonoBehaviour {
 	[SerializeField]
 	private UnityEvent[] triggers;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
+	private int index;
+
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown(KeyCode.A))
 		{
-			triggers[0].Invoke();
+			triggers[index].Invoke();
+			index++;
 		}
 	}
 }

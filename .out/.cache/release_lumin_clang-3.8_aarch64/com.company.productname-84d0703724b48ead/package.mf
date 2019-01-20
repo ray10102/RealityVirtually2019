@@ -100,16 +100,16 @@
   },
   {
    "compression": 8,
-   "hash": "e326b6b65ff7676a3c9c1923f7bcd2b2334a073f",
+   "hash": "c2986bf459c07ea0bc73409d7f0dedbdd3920bb7",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 5992552,
+   "size": 5994248,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "acd1feb5555414f9217ce37ada49c3cc48cb0d2a",
+   "hash": "465c4b83a4f89e4724c55a9c9d70e40ba988fa5d",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 71598864,
+   "size": 71608288,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -120,9 +120,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "80317788c7959f0da409ed6c9e7a3af500d4cbf6",
+   "xfrm_hash": "48fabad2e726c4af16b8c60f9104e8d38b9456ee",
    "xfrm_path": "C:/Users/Ray/Desktop/RealityVirtually2019/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead\\libil2cpp.so-2fa54e14582f03bf",
-   "xfrm_size": 71599622
+   "xfrm_size": 71609046
   },
   {
    "compression": 8,
@@ -286,30 +286,30 @@
   },
   {
    "compression": 8,
-   "hash": "1f6b59a244abce86020d0805881346673135348f",
+   "hash": "85d823fbc3b73f5fb3d4ea271be69f983d5c8c6f",
    "pkgpath": "Data/globalgamemanagers",
    "size": 59332,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "a3f1981df4e03cefc2bb3c4f9a0c059b6c67b03b",
+   "hash": "2bb334f540b2edb06d0947f3e657b2f33b65263f",
    "pkgpath": "Data/globalgamemanagers.assets",
    "size": 110192,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "d43cf23e4f133df9ef9dba9efa9710238b5f5b8f",
+   "hash": "dcc3c3b32186c8dfb28590f903173a33f85841cc",
    "pkgpath": "Data/level0",
-   "size": 3657024,
+   "size": 3657732,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/level0"
   },
   {
    "compression": 8,
-   "hash": "acdb39c01ada22cc08883c881ff523cd2ef61424",
+   "hash": "5fd292d4c730feb474d23196c942d1569371676e",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 21679414,
+   "size": 21758046,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {

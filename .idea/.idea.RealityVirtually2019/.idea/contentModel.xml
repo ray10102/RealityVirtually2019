@@ -1026,6 +1026,7 @@
           <e p="ColorChangeGroup.cs" t="Include" />
           <e p="ColorChanger.cs" t="Include" />
         </e>
+        <e p="Rise.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="ModelGroup.cs" t="Include" />
         </e>
