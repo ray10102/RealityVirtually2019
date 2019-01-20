@@ -1,15 +1,780 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds">
-    <option name="x" value="130" />
-    <option name="y" value="26" />
-    <option name="width" value="1665" />
-    <option name="height" value="954" />
+  <component name="ChangeListManager">
+    <list default="true" id="e13c9ae2-9e61-481d-a973-ea723daf0af5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/UnityMagicLeap.so-0433b8f55f65b63f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/layout.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/libc++_shared.so-fe78b4b452cc2516" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/libil2cpp.so-2fa54e14582f03bf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/manifest.xml-b89ca692612c5f8b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/package.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/bin/Player.elf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/bin/UnityEngine.SpatialTracking.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/bin/UnityEngine.TestRunner.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/bin/UnityMagicLeap.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/bin/libc++_shared.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/bin/libil2cpp.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/bin/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.out/com.company.productname.mpk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Swing.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Zig Zag.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Zig Zag.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/Body.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/Shoes.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/Top.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Neutral Idle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Victory Idle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/female3.fuse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Hair_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Hair_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Hair_MetallicAndSmoothness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Shoes_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Shoes_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Shoes_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Shoes_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Shoes_MetallicAndSmoothness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Shoes_MetallicAndSmoothness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Shoes_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Top_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Top_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Top_MetallicAndSmoothness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Body.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Body.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Bottom.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Bottom.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Hair.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Hair.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Shoes.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Shoes.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Top.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/Top.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Catwalk Idle 02.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Catwalk Idle 02.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Catwalk Idle Twist L.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Catwalk Idle Twist L.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Standing Torch Idle 01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Standing Torch Idle 01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Standing W_Briefcase Idle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Standing W_Briefcase Idle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Unarmed Idle Looking Ver. 1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/animations/male5@Unarmed Idle Looking Ver. 1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/male5.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/male5.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/male5.fuse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Body_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Body_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Body_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Body_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Body_MetallicAndSmoothness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Body_MetallicAndSmoothness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Body_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Body_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Bottom_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Bottom_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Bottom_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Bottom_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Bottom_MetallicAndSmoothness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Bottom_MetallicAndSmoothness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Bottom_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Bottom_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Hair_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Hair_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Hair_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Hair_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Hair_MetallicAndSmoothness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Hair_MetallicAndSmoothness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Hair_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Hair_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Shoes_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Shoes_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Shoes_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Shoes_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Shoes_MetallicAndSmoothness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Shoes_MetallicAndSmoothness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Shoes_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Shoes_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Top_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Top_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Top_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Top_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Top_MetallicAndSmoothness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Top_MetallicAndSmoothness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Top_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male5/textures/male5_Top_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Body.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Body.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Bottom.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Bottom.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Hair.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Hair.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Shoes.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Shoes.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Top.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/Top.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/animation/male8@Thoughtful Head Nod.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/animation/male8@Thoughtful Head Nod.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/male8.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/male8.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/male8.fuse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/male8.fuse.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Body_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Bottom_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Hair_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Shoes_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male8/textures/male8_Top_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/Body.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/Bottom.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/Bottom.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/Hair.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/Hair.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/Shoes.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/Top.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/animation/male9@Standing W_Briefcase Idle.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/animation/male9@Standing W_Briefcase Idle.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/male9.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/male9.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/male9.fuse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/male9.fuse.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Body_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Bottom_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Hair_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Shoes_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_AmbientOcclusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_AmbientOcclusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Characters/male9/textures/male9_Top_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Black_Ops_One.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Black_Ops_One/BlackOpsOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Black_Ops_One/BlackOpsOne-Regular.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Black_Ops_One/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Fonts/Black_Ops_One/OFL.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/3D Chain.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/3D Chain/cadena.mb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/3D Chain/cadena.mb.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/3D Chain/cadena.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/3D Chain/cadena.obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Brick.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Brick/Single Brick.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Brick/Single Brick.zip.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cannon Ball.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cannon Ball/Ball.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cannon Ball/Ball.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cannon Ball/Cannon Ball.c4d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cannon Ball/Cannon Ball.c4d.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cannon Ball/Seamless Cannon Ball Texture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Cannon Ball/Seamless Cannon Ball Texture.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ModelGroup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.company.productname.package" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RealityVirtually2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/CrouchingRun.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/CrouchingRun.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Damage1.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Damage1.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Damage2.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Damage2.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Damage3.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Damage3.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Death.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Death.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/FightStance.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/FightStance.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Hit.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Hit.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Idle.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Idle.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Jump.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Jump.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/CrouchingRun.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/CrouchingRun.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Damage1.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Damage1.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Damage2.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Damage2.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Damage3.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Damage3.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Death.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Death.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/FightStance.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/FightStance.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Hit.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Hit.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Idle.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Idle.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Jump.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Jump.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Run.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Run.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Sneak.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Sneak.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Walk.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Walk.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Wary.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Legacy/Wary.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Run.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Run.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Sneak.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Sneak.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/SportyGirl.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Wrecking Ball.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/SportyGirl.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Swing.anim.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Walk.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Walk.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Wary.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Animations/Wary.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Characters.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Characters.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Characters/Sporty Girl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Characters/Sporty Girl.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Characters/Sporty Girl/SportyGirl.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Characters/Sporty Girl/SportyGirl.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Characters/Sporty Girl/SportyGirl.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Characters/Sporty Girl/SportyGirl.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Controllers.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Controllers.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Controllers/FreeHandController.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Controllers/FreeHandController.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Demo Sporty Girl.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Demo Sporty Girl.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Demo Sporty Girl.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Demo Sporty Girl.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Material.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Material.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Material/DarkSpot.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Material/DarkSpot.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Prefabs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Prefabs/Button.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Prefabs/Button.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Prefabs/UI.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Prefabs/UI.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts/Actions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts/Actions.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts/CharacterPanel.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts/CharacterPanel.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts/CharacterViewer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts/CharacterViewer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts/PlayerController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Textures/DarkSpot.JPG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Demo/Textures/DarkSpot.JPG.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Manual.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Manual.pdf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Materials/SportyGirl.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Materials/SportyGirl.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Shaders.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Shaders.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Shaders/SkinShader.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Shaders/SkinShader.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/Textures/SportyGrilSkin.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/Textures/SportyGrilSkin.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Yurowm/YurowmAvatar.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Yurowm/YurowmAvatar.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/male5.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX/female1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX/female1/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX/female1/._female1 (1).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX/female1/animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/male9/animation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX/female1/animation/._female1@Box Idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX/female1/animation/._female1@Dwarf Idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX/female1/animation/._female1@Idle (1).fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX/female1/animation/._female1@Idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/__MACOSX/female1/animation/._female1@Orc Idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/Body.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/male9/Body.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/Body.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/Body.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/Hair.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/Hair.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/Hair.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/Hair.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/Shoes.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/male9/Shoes.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/Shoes.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/Shoes.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/Top.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/male9/Top.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/Top.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/Top.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/male8/animation.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1 (1).controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1 (1).controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Wrecking Ball.controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Box Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Victory Idle.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Box Idle.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Dwarf Idle.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Dwarf Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Dwarf Idle.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Dwarf Idle.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Idle (1).fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Idle (1).fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Idle.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Idle (1).fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Idle.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead/Player.elf-b89ca692612c5f8b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Idle.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Neutral Idle.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Orc Idle.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/animations/female3@Idle (1).fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/animation/female1@Orc Idle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/female1 (1).fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/female3.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/female1 (1).fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/female3.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Body_AmbientOcclusion.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Body_AmbientOcclusion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Body_AmbientOcclusion.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Body_MetallicAndSmoothness.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Body_BaseColor.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Body_BaseColor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Body_BaseColor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Hair_AmbientOcclusion.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Body_MetallicAndSmoothness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Body_MetallicAndSmoothness.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Body_MetallicAndSmoothness.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Body_AmbientOcclusion.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Body_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Body_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Body_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Hair_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Hair_AmbientOcclusion.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Hair_AmbientOcclusion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Hair_AmbientOcclusion.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Body_BaseColor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Hair_BaseColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Hair_BaseColor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Hair_MetallicAndSmoothness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Hair_MetallicAndSmoothness.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Hair_MetallicAndSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Hair_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Hair_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Hair_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Body_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Shoes_AmbientOcclusion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Shoes_AmbientOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Shoes_BaseColor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Shoes_BaseColor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Shoes_MetallicAndSmoothness.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Shoes_MetallicAndSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Shoes_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Shoes_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Shoes_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Top_AmbientOcclusion.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Top_AmbientOcclusion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Top_AmbientOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Top_BaseColor.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Top_BaseColor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Top_BaseColor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Top_MetallicAndSmoothness.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Top_MetallicAndSmoothness.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Top_MetallicAndSmoothness.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Top_Normal.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Top_Normal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/female1/female1/textures/female1_Top_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/textures/female3_Top_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Model Preview.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Model Preview.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/CrouchingRun.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/CrouchingRun.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage3.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Damage3.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Death.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Death.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/FightStance.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/FightStance.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Hit.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Hit.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Idle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Idle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Jump.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Jump.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/CrouchingRun.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/CrouchingRun.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage1.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage1.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage2.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage2.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage3.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Damage3.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Death.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Death.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/FightStance.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/FightStance.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Hit.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Hit.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Idle.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Idle.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Jump.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Jump.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Sneak.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Sneak.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Walk.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Walk.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Wary.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Legacy/Wary.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Run.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Run.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Sneak.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Sneak.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Walk.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Walk.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Wary.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Animations/Wary.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl/SportyGirl.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl/SportyGirl.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl/SportyGirl.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Characters/Sporty Girl/SportyGirl.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Controllers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Controllers/FreeHandController.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Controllers/FreeHandController.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Demo Sporty Girl.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Demo Sporty Girl.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/female3/female3.fuse.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Material.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Material/DarkSpot.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Material/DarkSpot.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs/Button.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs/Button.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs/UI.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Prefabs/UI.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/Actions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/Actions.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ModelGroup.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/CharacterPanel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/CharacterPanel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/CharacterViewer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/CharacterViewer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Scripts/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Textures/DarkSpot.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Demo/Textures/DarkSpot.JPG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Manual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Manual.pdf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/male5/male5.fuse.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Materials/SportyGirl.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Materials/SportyGirl.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Shaders/SkinShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Shaders/SkinShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Textures/SportyGrilSkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/Textures/SportyGrilSkin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/YurowmAvatar.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Yurowm/YurowmAvatar.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1681185337">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="2480" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="2480" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+              <folding>
+                <marker date="1543259024000" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+                <marker date="1543259024000" expanded="false" signature="160:220" ph="..." />
+                <marker date="1543259024000" expanded="true" signature="261:23716" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="268:513" ph="/// An Object Collection is simply a set of child objects organized with some ... " />
+                <marker date="1543259024000" expanded="true" signature="563:23714" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="578:4920" ph="public members" />
+                <marker date="1543259024000" expanded="true" signature="609:698" ph="/// Action called when collection is updated ... " />
+                <marker date="1543259024000" expanded="true" signature="769:868" ph="/// List of objects with generated data on the object. ... " />
+                <marker date="1543259024000" expanded="true" signature="978:1068" ph="/// Type of surface to map the collection to. ... " />
+                <marker date="1543259024000" expanded="true" signature="1208:1280" ph="/// Type of sorting to use. ... " />
+                <marker date="1543259024000" expanded="true" signature="1392:1511" ph="/// Should the objects in the collection face the origin of the collection ... " />
+                <marker date="1543259024000" expanded="true" signature="1689:1793" ph="/// Whether to sort objects by row first or by column first ... " />
+                <marker date="1543259024000" expanded="true" signature="1953:2053" ph="/// Whether to treat inactive transforms as 'invisible' ... " />
+                <marker date="1543259024000" expanded="true" signature="2116:2269" ph="/// This is the radius of either the Cylinder or Sphere mapping and is ignored when using the plane mapping. ... " />
+                <marker date="1543259024000" expanded="true" signature="2543:2650" ph="/// This is the radial range for creating a radial fan layout. ... " />
+                <marker date="1543259024000" expanded="true" signature="2683:2784" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="2794:2913" ph="/// Number of rows per column (column number is automatically determined). ... " />
+                <marker date="1543259024000" expanded="true" signature="2999:3095" ph="/// Width of the cell per object in the collection. ... " />
+                <marker date="1543259024000" expanded="true" signature="3190:3287" ph="/// Height of the cell per object in the collection. ... " />
+                <marker date="1543259024000" expanded="true" signature="3514:3599" ph="/// Margin between objects horizontally. ... " />
+                <marker date="1543259024000" expanded="true" signature="3637:3748" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="3884:3967" ph="/// Margin between objects vertically. ... " />
+                <marker date="1543259024000" expanded="true" signature="4003:4110" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="4241:4322" ph="/// Margin between objects in depth. ... " />
+                <marker date="1543259024000" expanded="true" signature="4355:4456" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="4466:4568" ph="/// Reference mesh to use for rendering the sphere layout ... " />
+                <marker date="1543259024000" expanded="true" signature="4636:4740" ph="/// Reference mesh to use for rendering the cylinder layout ... " />
+                <marker date="1543259024000" expanded="false" signature="4930:5117" ph="private variables" />
+                <marker date="1543259024000" expanded="true" signature="5127:5301" ph="/// Update collection is called from the editor button on the inspector. ... " />
+                <marker date="1543259024000" expanded="true" signature="5340:8227" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="5531:5874" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="5775:5860" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="5972:6048" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="6199:6623" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="6380:6609" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="6654:7727" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="8139:8217" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="8237:8368" ph="/// Internal function for laying out all the children when UpdateCollection is called. ... " />
+                <marker date="1543259024000" expanded="true" signature="8407:13954" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="8915:10290" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9060:9587" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9137:9565" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9225:9496" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9717:10248" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9798:10226" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="9886:10157" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="10325:13944" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="10431:10666" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="10801:11064" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="11198:11459" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="11668:12258" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="11835:11968" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="11997:12090" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="12352:12531" ph="/* Get randomized planar mapping ... */" />
+                <marker date="1543259024000" expanded="true" signature="12592:13617" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="12841:13185" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="13214:13450" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="13269:13371" ph="/* Make the radius a default value ... */" />
+                <marker date="1543259024000" expanded="true" signature="13639:13743" ph="/* Iterate [x] times ... */" />
+                <marker date="1543259024000" expanded="true" signature="13793:13903" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="13964:14245" ph="/// Update the facing of a node given the nodes new position for facing orign with node and orientation type ... " />
+                <marker date="1543259024000" expanded="true" signature="14366:16614" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="14484:16604" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="16625:17012" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for spherical mapping. ... " />
+                <marker date="1543259024000" expanded="true" signature="17083:17474" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="17484:17874" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for cylinder mapping. ... " />
+                <marker date="1543259024000" expanded="true" signature="17947:18278" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="18288:18867" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for radial mapping. ... " />
+                <marker date="1543259024000" expanded="true" signature="18956:19364" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="19374:19623" ph="/// Internal function to check if a node exists in the NodeList. ... " />
+                <marker date="1543259024000" expanded="true" signature="19673:20013" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="19736:19977" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="19791:19963" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="19864:19945" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="20023:20409" ph="/// Internal function for randomized mapping based on a source Vec3 and a radius for randomization distance. ... " />
+                <marker date="1543259024000" expanded="true" signature="20478:20657" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="20672:20890" ph="/// Internal function to pack randomly spaced nodes so they don't overlap ... " />
+                <marker date="1543259024000" expanded="true" signature="20982:22895" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="21005:21132" ph="/* Sort by closest to center (don't worry about z axis) ... */" />
+                <marker date="1543259024000" expanded="true" signature="21694:22885" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="21765:22871" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="21815:22853" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="22481:22831" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="22905:23001" ph="/// Gizmos to draw when the Collection is selected. ... " />
+                <marker date="1543259024000" expanded="true" signature="23055:23708" ph="{...}" />
+                <marker date="1543259024000" expanded="true" signature="23155:23698" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TriggerManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+              <folding>
+                <marker date="1547994867903" expanded="true" signature="0:399" ph="/* %BANNER_BEGIN% ... */" />
+                <marker date="1547994867903" expanded="false" signature="407:503" ph="..." />
+                <marker date="1547994867903" expanded="true" signature="509:638" ph="/// This class provides examples of how you can use haptics and LEDs ... " />
+                <marker date="1547994867903" expanded="true" signature="746:2874" ph="{...}" />
+                <marker date="1547994867903" expanded="true" signature="761:980" ph="Private Variables" />
+                <marker date="1547994867903" expanded="true" signature="990:1092" ph="Const Variables" />
+                <marker date="1547994867903" expanded="true" signature="1102:1855" ph="Unity Methods" />
+                <marker date="1547994867903" expanded="true" signature="1132:1239" ph="/// Initialize variables, callbacks and check null references. ... " />
+                <marker date="1547994867903" expanded="true" signature="1260:1427" ph="{...}" />
+                <marker date="1547994867903" expanded="true" signature="1437:1525" ph="/// Update controller input based feedback. ... " />
+                <marker date="1547994867903" expanded="true" signature="1547:1567" ph="{...}" />
+                <marker date="1547994867903" expanded="true" signature="1577:1666" ph="/// Stop input api and unregister callbacks. ... " />
+                <marker date="1547994867903" expanded="true" signature="1691:1836" ph="{...}" />
+                <marker date="1547994867903" expanded="true" signature="1736:1826" ph="{...}" />
+                <marker date="1547994867903" expanded="true" signature="1865:1908" ph="Private Methods" />
+                <marker date="1547994867903" expanded="true" signature="1918:2868" ph="Event Handlers" />
+                <marker date="1547994867903" expanded="true" signature="1949:2180" ph="/// Handles the event for trigger down. ... " />
+                <marker date="1547994867903" expanded="true" signature="2253:2849" ph="{...}" />
+                <marker date="1547994867903" expanded="true" signature="2425:2839" ph="{...}" />
+                <marker date="1547994867903" expanded="true" signature="2484:2595" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Balloon.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding>
+                <marker date="1547999507082" expanded="false" signature="6:78" ph="..." />
+                <marker date="1547999507082" expanded="true" signature="116:389" ph="{...}" />
+                <marker date="1547999507082" expanded="true" signature="210:217" ph="{...}" />
+                <marker date="1547999507082" expanded="true" signature="271:387" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/InteractiveHuman.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+              <folding>
+                <marker date="1548001396719" expanded="true" signature="6:172" ph="..." />
+                <marker date="1548001396719" expanded="true" signature="219:1579" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="506:711" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="765:790" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="836:1006" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="902:1004" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="1051:1146" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="1092:1144" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="1183:1273" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="1298:1367" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="1399:1494" ph="{...}" />
+                <marker date="1548001396719" expanded="true" signature="1533:1577" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lastLED</find>
+      <find>controllerId</find>
+      <find>spotlight</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollectionDynamic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InteractiveHuman.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TriggerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Balloon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ModelGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MagicLeap/Examples/Scripts/ControllerFeedbackExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SectionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Timeline.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModelGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/ControllerFeedbackExample1.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Balloon.cs" />
+        <option value="$PROJECT_DIR$/Assets/InteractiveHuman.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="148" />
+    <option name="y" value="47" />
+    <option name="width" value="1055" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -26,5 +791,360 @@
       <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
       <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
     </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e13c9ae2-9e61-481d-a973-ea723daf0af5" name="Default Changelist" comment="" />
+      <created>1547913035203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547913035203</updated>
+      <workItem from="1547913039029" duration="6220000" />
+      <workItem from="1547935047188" duration="5760000" />
+      <workItem from="1547992152839" duration="6366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10261000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22281879" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/SectionManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Timeline.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/MagicLeap/Examples/Scripts/ControllerFeedbackExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="52" column="65" lean-forward="true" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
+          <folding>
+            <marker date="1544137270000" expanded="true" signature="0:399" ph="/* %BANNER_BEGIN% ... */" />
+            <marker date="1544137270000" expanded="true" signature="407:477" ph="..." />
+            <marker date="1544137270000" expanded="true" signature="498:6740" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="505:634" ph="/// This class provides examples of how you can use haptics and LEDs ... " />
+            <marker date="1544137270000" expanded="true" signature="753:6738" ph="{...}" />
+            <marker date="1544137270000" expanded="false" signature="768:927" ph="Private Variables" />
+            <marker date="1544137270000" expanded="true" signature="937:1461" ph="Const Variables" />
+            <marker date="1544137270000" expanded="true" signature="1471:2513" ph="Unity Methods" />
+            <marker date="1544137270000" expanded="true" signature="1501:1608" ph="/// Initialize variables, callbacks and check null references. ... " />
+            <marker date="1544137270000" expanded="true" signature="1629:1924" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="1934:2022" ph="/// Update controller input based feedback. ... " />
+            <marker date="1544137270000" expanded="true" signature="2044:2089" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="2099:2188" ph="/// Stop input api and unregister callbacks. ... " />
+            <marker date="1544137270000" expanded="true" signature="2213:2494" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="2258:2484" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="2523:4203" ph="Private Methods" />
+            <marker date="1544137270000" expanded="true" signature="2555:2668" ph="/// Updates LED on the physical controller based on touch pad input. ... " />
+            <marker date="1544137270000" expanded="true" signature="2701:4184" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="2778:2830" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="2965:4015" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="3158:3231" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="3695:4001" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="4057:4174" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="4213:6732" ph="Event Handlers" />
+            <marker date="1544137270000" expanded="true" signature="4244:4476" ph="/// Handles the event for button down. ... " />
+            <marker date="1544137270000" expanded="true" signature="4567:5162" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="4799:5152" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="5172:5403" ph="/// Handles the event for button up. ... " />
+            <marker date="1544137270000" expanded="true" signature="5492:5960" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="5724:5950" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="5970:6201" ph="/// Handles the event for trigger down. ... " />
+            <marker date="1544137270000" expanded="true" signature="6274:6713" ph="{...}" />
+            <marker date="1544137270000" expanded="true" signature="6446:6703" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ControllerFeedbackExample1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Models/ColorChanger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <marker date="1547944113346" expanded="false" signature="6:78" ph="..." />
+            <marker date="1547944113346" expanded="true" signature="121:953" ph="{...}" />
+            <marker date="1547944113346" expanded="true" signature="427:528" ph="{...}" />
+            <marker date="1547944113346" expanded="true" signature="586:841" ph="{...}" />
+            <marker date="1547944113346" expanded="true" signature="616:835" ph="{...}" />
+            <marker date="1547944113346" expanded="true" signature="678:825" ph="{...}" />
+            <marker date="1547944113346" expanded="true" signature="886:949" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollectionDynamic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <marker date="1543259024000" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+            <marker date="1543259024000" expanded="false" signature="160:220" ph="..." />
+            <marker date="1543259024000" expanded="true" signature="261:4993" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="268:525" ph="/// A utility that stores transform information for objects in a collection ... " />
+            <marker date="1543259024000" expanded="true" signature="582:4991" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="621:728" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="738:865" ph="/// Extends collection node class to include stored local position / rotation data ... " />
+            <marker date="1543259024000" expanded="true" signature="948:1846" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="1020:1341" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="1409:1730" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="1856:1948" ph="/// When to gather the dynamic node information ... " />
+            <marker date="1543259024000" expanded="true" signature="2026:2114" ph="/// List of dynamic nodes in the collection ... " />
+            <marker date="1543259024000" expanded="true" signature="2255:2497" ph="/// Sets each node in the collection to its last stored arrangement ... " />
+            <marker date="1543259024000" expanded="true" signature="2546:3194" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="2687:3184" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="2822:2907" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="2912:3170" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3204:3290" ph="/// Manually store collection arrangement ... " />
+            <marker date="1543259024000" expanded="true" signature="3330:3992" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3564:3758" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3633:3744" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3775:3982" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3858:3968" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4014:4172" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4060:4162" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4194:4869" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4234:4859" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4686:4778" ph="/* If we're only supposed to update once ... */" />
+            <marker date="1543259024000" expanded="true" signature="4933:4985" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ModelGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1547953399926" expanded="false" signature="6:137" ph="..." />
+            <marker date="1547953399926" expanded="true" signature="178:619" ph="{...}" />
+            <marker date="1547953399926" expanded="true" signature="282:555" ph="{...}" />
+            <marker date="1547953399926" expanded="true" signature="361:552" ph="{...}" />
+            <marker date="1547953399926" expanded="true" signature="610:617" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/HoloToolkit/UX/Scripts/Collections/ObjectCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="126" column="21" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+          <folding>
+            <marker date="1543259024000" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+            <marker date="1543259024000" expanded="false" signature="160:220" ph="..." />
+            <marker date="1543259024000" expanded="true" signature="261:23716" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="268:513" ph="/// An Object Collection is simply a set of child objects organized with some ... " />
+            <marker date="1543259024000" expanded="true" signature="563:23714" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="578:4920" ph="public members" />
+            <marker date="1543259024000" expanded="true" signature="609:698" ph="/// Action called when collection is updated ... " />
+            <marker date="1543259024000" expanded="true" signature="769:868" ph="/// List of objects with generated data on the object. ... " />
+            <marker date="1543259024000" expanded="true" signature="978:1068" ph="/// Type of surface to map the collection to. ... " />
+            <marker date="1543259024000" expanded="true" signature="1208:1280" ph="/// Type of sorting to use. ... " />
+            <marker date="1543259024000" expanded="true" signature="1392:1511" ph="/// Should the objects in the collection face the origin of the collection ... " />
+            <marker date="1543259024000" expanded="true" signature="1689:1793" ph="/// Whether to sort objects by row first or by column first ... " />
+            <marker date="1543259024000" expanded="true" signature="1953:2053" ph="/// Whether to treat inactive transforms as 'invisible' ... " />
+            <marker date="1543259024000" expanded="true" signature="2116:2269" ph="/// This is the radius of either the Cylinder or Sphere mapping and is ignored when using the plane mapping. ... " />
+            <marker date="1543259024000" expanded="true" signature="2543:2650" ph="/// This is the radial range for creating a radial fan layout. ... " />
+            <marker date="1543259024000" expanded="true" signature="2683:2784" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="2794:2913" ph="/// Number of rows per column (column number is automatically determined). ... " />
+            <marker date="1543259024000" expanded="true" signature="2999:3095" ph="/// Width of the cell per object in the collection. ... " />
+            <marker date="1543259024000" expanded="true" signature="3190:3287" ph="/// Height of the cell per object in the collection. ... " />
+            <marker date="1543259024000" expanded="true" signature="3514:3599" ph="/// Margin between objects horizontally. ... " />
+            <marker date="1543259024000" expanded="true" signature="3637:3748" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="3884:3967" ph="/// Margin between objects vertically. ... " />
+            <marker date="1543259024000" expanded="true" signature="4003:4110" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4241:4322" ph="/// Margin between objects in depth. ... " />
+            <marker date="1543259024000" expanded="true" signature="4355:4456" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="4466:4568" ph="/// Reference mesh to use for rendering the sphere layout ... " />
+            <marker date="1543259024000" expanded="true" signature="4636:4740" ph="/// Reference mesh to use for rendering the cylinder layout ... " />
+            <marker date="1543259024000" expanded="false" signature="4930:5117" ph="private variables" />
+            <marker date="1543259024000" expanded="true" signature="5127:5301" ph="/// Update collection is called from the editor button on the inspector. ... " />
+            <marker date="1543259024000" expanded="true" signature="5340:8227" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="5531:5874" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="5775:5860" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="5972:6048" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="6199:6623" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="6380:6609" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="6654:7727" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="8139:8217" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="8237:8368" ph="/// Internal function for laying out all the children when UpdateCollection is called. ... " />
+            <marker date="1543259024000" expanded="true" signature="8407:13954" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="8915:10290" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9060:9587" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9137:9565" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9225:9496" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9717:10248" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9798:10226" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="9886:10157" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="10325:13944" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="10431:10666" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="10801:11064" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="11198:11459" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="11668:12258" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="11835:11968" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="11997:12090" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="12352:12531" ph="/* Get randomized planar mapping ... */" />
+            <marker date="1543259024000" expanded="true" signature="12592:13617" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="12841:13185" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="13214:13450" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="13269:13371" ph="/* Make the radius a default value ... */" />
+            <marker date="1543259024000" expanded="true" signature="13639:13743" ph="/* Iterate [x] times ... */" />
+            <marker date="1543259024000" expanded="true" signature="13793:13903" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="13964:14245" ph="/// Update the facing of a node given the nodes new position for facing orign with node and orientation type ... " />
+            <marker date="1543259024000" expanded="true" signature="14366:16614" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="14484:16604" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="16625:17012" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for spherical mapping. ... " />
+            <marker date="1543259024000" expanded="true" signature="17083:17474" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="17484:17874" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for cylinder mapping. ... " />
+            <marker date="1543259024000" expanded="true" signature="17947:18278" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="18288:18867" ph="/// Internal function for getting the relative mapping based on a source Vec3 and a radius for radial mapping. ... " />
+            <marker date="1543259024000" expanded="true" signature="18956:19364" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="19374:19623" ph="/// Internal function to check if a node exists in the NodeList. ... " />
+            <marker date="1543259024000" expanded="true" signature="19673:20013" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="19736:19977" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="19791:19963" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="19864:19945" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="20023:20409" ph="/// Internal function for randomized mapping based on a source Vec3 and a radius for randomization distance. ... " />
+            <marker date="1543259024000" expanded="true" signature="20478:20657" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="20672:20890" ph="/// Internal function to pack randomly spaced nodes so they don't overlap ... " />
+            <marker date="1543259024000" expanded="true" signature="20982:22895" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="21005:21132" ph="/* Sort by closest to center (don't worry about z axis) ... */" />
+            <marker date="1543259024000" expanded="true" signature="21694:22885" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="21765:22871" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="21815:22853" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="22481:22831" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="22905:23001" ph="/// Gizmos to draw when the Collection is selected. ... " />
+            <marker date="1543259024000" expanded="true" signature="23055:23708" ph="{...}" />
+            <marker date="1543259024000" expanded="true" signature="23155:23698" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TriggerManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <marker date="1547994867903" expanded="true" signature="0:399" ph="/* %BANNER_BEGIN% ... */" />
+            <marker date="1547994867903" expanded="false" signature="407:503" ph="..." />
+            <marker date="1547994867903" expanded="true" signature="509:638" ph="/// This class provides examples of how you can use haptics and LEDs ... " />
+            <marker date="1547994867903" expanded="true" signature="746:2874" ph="{...}" />
+            <marker date="1547994867903" expanded="true" signature="761:980" ph="Private Variables" />
+            <marker date="1547994867903" expanded="true" signature="990:1092" ph="Const Variables" />
+            <marker date="1547994867903" expanded="true" signature="1102:1855" ph="Unity Methods" />
+            <marker date="1547994867903" expanded="true" signature="1132:1239" ph="/// Initialize variables, callbacks and check null references. ... " />
+            <marker date="1547994867903" expanded="true" signature="1260:1427" ph="{...}" />
+            <marker date="1547994867903" expanded="true" signature="1437:1525" ph="/// Update controller input based feedback. ... " />
+            <marker date="1547994867903" expanded="true" signature="1547:1567" ph="{...}" />
+            <marker date="1547994867903" expanded="true" signature="1577:1666" ph="/// Stop input api and unregister callbacks. ... " />
+            <marker date="1547994867903" expanded="true" signature="1691:1836" ph="{...}" />
+            <marker date="1547994867903" expanded="true" signature="1736:1826" ph="{...}" />
+            <marker date="1547994867903" expanded="true" signature="1865:1908" ph="Private Methods" />
+            <marker date="1547994867903" expanded="true" signature="1918:2868" ph="Event Handlers" />
+            <marker date="1547994867903" expanded="true" signature="1949:2180" ph="/// Handles the event for trigger down. ... " />
+            <marker date="1547994867903" expanded="true" signature="2253:2849" ph="{...}" />
+            <marker date="1547994867903" expanded="true" signature="2425:2839" ph="{...}" />
+            <marker date="1547994867903" expanded="true" signature="2484:2595" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Balloon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <marker date="1547999507082" expanded="false" signature="6:78" ph="..." />
+            <marker date="1547999507082" expanded="true" signature="116:389" ph="{...}" />
+            <marker date="1547999507082" expanded="true" signature="210:217" ph="{...}" />
+            <marker date="1547999507082" expanded="true" signature="271:387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/InteractiveHuman.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+          <folding>
+            <marker date="1548001396719" expanded="true" signature="6:172" ph="..." />
+            <marker date="1548001396719" expanded="true" signature="219:1579" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="506:711" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="765:790" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="836:1006" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="902:1004" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="1051:1146" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="1092:1144" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="1183:1273" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="1298:1367" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="1399:1494" ph="{...}" />
+            <marker date="1548001396719" expanded="true" signature="1533:1577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
