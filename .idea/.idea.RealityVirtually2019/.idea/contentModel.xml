@@ -8,6 +8,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Balloon.cs" t="Include" />
+        <e p="BalloonGroup.cs" t="Include" />
         <e p="Characters" t="Include">
           <e p="Yurowm" t="Include">
             <e p="Demo" t="Include">
@@ -1028,7 +1029,9 @@
         <e p="Scripts" t="Include">
           <e p="ModelGroup.cs" t="Include" />
         </e>
+        <e p="skrt.cs" t="Include" />
         <e p="TriggerManager.cs" t="Include" />
+        <e p="TriggerTest.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
