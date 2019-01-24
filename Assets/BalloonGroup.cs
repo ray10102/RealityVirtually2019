@@ -9,9 +9,11 @@ public class BalloonGroup : MonoBehaviour
 
 	public Animator wreckingBall;
 
+	private Animator anim;
 	// Use this for initialization
 	void Start ()
 	{
+		anim = GetComponent<Animator>();
 		balloons = GetComponentsInChildren<Balloon>();
 	}
 
@@ -22,5 +24,10 @@ public class BalloonGroup : MonoBehaviour
 		{
 			balloon.ReleaseBalloon();
 		}
+	}
+
+	public void Raise()
+	{
+		anim.SetTrigger("rise");
 	}
 }

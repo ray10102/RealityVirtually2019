@@ -41,6 +41,8 @@ public class InteractiveHuman : MonoBehaviour
 	private Light spotlight;
 
 	private static int index = 0;
+
+	private static bool active;
 	
 	// Use this for initialization
 	void Start ()
@@ -50,6 +52,7 @@ public class InteractiveHuman : MonoBehaviour
 		textColor.a = 0;
 		displayText.color = textColor;
 		lerpTo = textColor;
+		active = false;
 	}
 	
 	// Update is called once per frame
@@ -73,7 +76,7 @@ public class InteractiveHuman : MonoBehaviour
 
 	private void OnTriggerExit(Collider other)
 	{
-		if (other.CompareTag("Controller"))
+		if (other.CompareTag("Controller") && active)
 		{
 			FadeText(0f);
 			//HighlightModel(true);
@@ -100,5 +103,10 @@ public class InteractiveHuman : MonoBehaviour
 	private void HighlightModel(bool on)
 	{
 		spotlight.gameObject.SetActive(on);
+	}
+
+	public void Activate()
+	{
+		active = true;
 	}
 }

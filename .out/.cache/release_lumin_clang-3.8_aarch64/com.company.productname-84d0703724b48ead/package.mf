@@ -16,7 +16,7 @@
   },
   {
    "compression": 8,
-   "hash": "1a6e558d0fb0b41f9423ce1467325730366474c1",
+   "hash": "64049f5aecb421a0524faefa81a2426ab7e10149",
    "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
    "size": 5036,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
@@ -100,16 +100,16 @@
   },
   {
    "compression": 8,
-   "hash": "c2986bf459c07ea0bc73409d7f0dedbdd3920bb7",
+   "hash": "ad0f160f7aed89cf850a482bcaca5b5bb8faa4dd",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 5994248,
+   "size": 5994872,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "465c4b83a4f89e4724c55a9c9d70e40ba988fa5d",
+   "hash": "e0fa5fec50efcc7f181f1d41450b2918a7806eac",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 71608288,
+   "size": 71614832,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -120,9 +120,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "48fabad2e726c4af16b8c60f9104e8d38b9456ee",
+   "xfrm_hash": "b524dfced754847fe6e8a3164059c79645f78cd8",
    "xfrm_path": "C:/Users/Ray/Desktop/RealityVirtually2019/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-84d0703724b48ead\\libil2cpp.so-2fa54e14582f03bf",
-   "xfrm_size": 71609046
+   "xfrm_size": 71615590
   },
   {
    "compression": 8,
@@ -286,30 +286,30 @@
   },
   {
    "compression": 8,
-   "hash": "85d823fbc3b73f5fb3d4ea271be69f983d5c8c6f",
+   "hash": "8a0bd56814338e95400d32bf6575dab600c89a20",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 59332,
+   "size": 59380,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "2bb334f540b2edb06d0947f3e657b2f33b65263f",
+   "hash": "36c83d4a64e98252a77583cd96f639e839003314",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 110192,
+   "size": 110280,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "dcc3c3b32186c8dfb28590f903173a33f85841cc",
+   "hash": "f28ec983982810cffc9d7055baab82cb14cf72b3",
    "pkgpath": "Data/level0",
-   "size": 3657732,
+   "size": 3374220,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/level0"
   },
   {
    "compression": 8,
-   "hash": "5fd292d4c730feb474d23196c942d1569371676e",
+   "hash": "007053659c47f23803e8ec01b790cf808bd3e3d9",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 21758046,
+   "size": 21805998,
    "src": "C:/Users/Ray/Desktop/RealityVirtually2019/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
